@@ -7,8 +7,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "deepdash": "^4.2.14",
-    "lodash": "^4.17.15",
+    "deepdash-es": "^4.2.14",
+    "lodash-es": "^4.17.15",
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.9"
   }
